@@ -170,5 +170,3 @@ speech-to-text -audio path/to/audio.wav
 This CLI design ensures simplicity and efficiency, suitable for both individual users and automated processes.
 
 ---
-
-Feel free to use this revised outline as a reference during the implementation of your software engineering project. If you have any further questions or need assistance, feel free to ask! Good luck with your assignment!
