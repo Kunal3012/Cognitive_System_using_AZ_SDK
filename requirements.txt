@@ -1,0 +1,8 @@
+pip install python-dotenv
+pip install Pillow
+pip install matplotlib
+pip install numpy
+https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/05-analyze-text.html
+ pip install azure-ai-textanalytics==5.3.0
+https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/08-translate-speech.html
+ pip install azure-cognitiveservices-speech==1.30.0
