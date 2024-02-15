@@ -15,7 +15,7 @@ def main():
         translator_endpoint = 'https://api.cognitive.microsofttranslator.com'
 
         # Analyze each text file in the reviews folder
-        reviews_folder = 'reviews'
+        reviews_folder = r'Python\text-translation\reviews'
         for file_name in os.listdir(reviews_folder):
             # Read the file contents
             print('\n-------------\n' + file_name)

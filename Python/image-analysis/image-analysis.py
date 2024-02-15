@@ -23,7 +23,7 @@ def main():
 
     try:
         # Get image
-        image_file = r'images\street.jpg'
+        image_file = r'Python\image-analysis\images\street.jpg'
         if len(sys.argv) > 1:
             image_file = sys.argv[1]
 
